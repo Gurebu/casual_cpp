@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/tests/base/ThreadingTest.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/concurrent/spinlock.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/blocking/stack.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/blocking/stack.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/concurrent/spinlock.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/func/irange.h" isTestSource="false" />

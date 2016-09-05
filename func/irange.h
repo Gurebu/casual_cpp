@@ -2,8 +2,8 @@
 // Created by Gurebu on 19.07.2016.
 //
 
-#ifndef PRIMER_RANGE_H
-#define PRIMER_RANGE_H
+#ifndef CASUAL_CPP_RANGE_H
+#define CASUAL_CPP_RANGE_H
 
 // TODO iterator_traits
 
@@ -149,4 +149,4 @@ namespace grb {
 
 }
 
-#endif //PRIMER_RANGE_H
+#endif //CASUAL_CPP_RANGE_H

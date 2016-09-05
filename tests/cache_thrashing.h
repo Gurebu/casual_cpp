@@ -52,7 +52,7 @@ void cache_thrashing() {
     });
 
     for (int k = 0; k < 10; ++k) {
-        std::cout << "Test1 is run in: " << test1.run() << " seconds" << std::endl;
+        std::cout << "Test1 is run in: " << test1.run() << " seconds" << std::endl; // ~ 2.3 seconds
     }
 
     // "cache-oblivious" order
@@ -74,7 +74,7 @@ void cache_thrashing() {
     std::cout << std::endl;
 
     for (int k = 0; k < 10; ++k) {
-        std::cout << "Test2 is run in: " << test2.run() << " seconds" << std::endl;
+        std::cout << "Test2 is run in: " << test2.run() << " seconds" << std::endl; // ~ 2.7 seconds
     }
 
     for (unsigned i = 0; i < size; ++i) {
